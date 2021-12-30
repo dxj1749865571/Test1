@@ -10,6 +10,7 @@ public class Response {
 
     public int getCode() {
         return code;
+
     }
 
     public void setMsg(String msg) {
