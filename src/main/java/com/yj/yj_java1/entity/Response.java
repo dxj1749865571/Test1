@@ -3,7 +3,6 @@ package com.yj.yj_java1.entity;
 public class Response {
     String msg;
     int code;
-
     public String getMsg() {
         return msg;
     }
